@@ -23,6 +23,8 @@ We invite submissions of short abstracts (1 or 2 pages) for consideration as pos
 
 [Submit here](https://forms.gle/CsT7GGnDQv6WAb2KA)
 
+If you are unable to submit your abstract with the Google form, please email your abstract to climateworkshop23@gmail.com. 
+
 We particularly welcome submissions that focus on climate and weather related issues that affect lower and middle income countries.
 
 This workshop will not publish proceedings, and previously published work is welcome.

@@ -35,7 +35,7 @@ We particularly welcome submissions that focus on climate and weather related is
 
 This workshop will not publish proceedings, and previously published work is welcome.
 
-The link for abstract submission is [here](https://docs.google.com/forms/d/e/1FAIpQLSf90Gdo0cs4STeCl1AhI4PziqLALS5ba1wz73x1j6SLyE-COA/viewform?usp=sf_link).
+The link for abstract submission is [here](https://docs.google.com/forms/d/e/1FAIpQLSf90Gdo0cs4STeCl1AhI4PziqLALS5ba1wz73x1j6SLyE-COA/viewform?usp=sf_link). If you are unable to submit your abstract with the link, please email the abstract to climateworkshop23@gmail.com. 
 
 If your abstract is accepted, we expect you to present your work in person at the event.
 
@@ -43,3 +43,8 @@ If your abstract is accepted, we expect you to present your work in person at th
 
 **Acceptance notification: 8 March 2023**
 
+## **Partners**
+
+{% include figure.html img="aims_research_logo.png" alt="intro image here" caption="" width="50%" %}
+{% include figure.html img="qla_logo.png" alt="intro image here" caption="" width="50%" %}
+{% include figure.html img="ucl_logo.jpg" alt="intro image here" caption="" width="50%" %}
