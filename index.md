@@ -39,7 +39,7 @@ The link for abstract submission is [here](https://docs.google.com/forms/d/e/1FA
 
 If your abstract is accepted, we expect you to present your work in person at the event.
 
-**Submission deadline: 1 March 2023**
+**Submission deadline: 6 March 2023**
 
 **Acceptance notification: 8 March 2023**
 
