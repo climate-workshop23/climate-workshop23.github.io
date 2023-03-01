@@ -1,34 +1,15 @@
-- time: 8:30 - 8:45
-  title: Welcome
-- time: 8:45 - 9:30
-  title: Invited talk 1 + Q&A
-  speaker: TBC
-  detail: TBC
-- time: 9:30 - 10:15
-  title: Poster Spotlights
-- time: 10:15 - 10:45
-  title: Break
-- time: 10:45 - 11:45
-  title: Poster session
-- time: 11:45 - 12:30
-  title: Invited talk 2 + Q&A
-  speaker: TBC
-  detail: TBC
-- time: 12:30- 14:00
+- time: 9:00 - 9:30
+  title: Arrival and Welcome
+- time: 9:30 - 10:30
+  title: Proposed problems and brainstorming
+  detail: Presentation and discussion of an open problem in the field
+- time: 10:30 - 11:00
+  title: Coffee
+- time: 11:00 - 12:30
+  title: Proposed problem and brainstorming
+- time: 12:30 - 14:00
   title: Lunch
-- time: 14:00 - 14:45
-  title: Invited talk 3 + Q&A
-  speaker: TBC
-  detail: TBC
-- time: 14:45 - 15:30
-  title: Invited talk 4 + Q&A
-  speaker: TBC
-  detail: TBC
-- time: 15:30 - 16:00
-  title: Break
-- time: 16:00 - 16:45
-  title: Invited talk 5 + Q&A
-  speaker: TBC
-  detail: TBC
-- time: 16:45 - 17:45
-  title: Panel discussion
+- time: 14:00 - 15:00
+  title: Workshop takeaways and close
+  detail: Open floor discussion of takeaways among participants
+
