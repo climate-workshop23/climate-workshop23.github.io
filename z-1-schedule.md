@@ -18,6 +18,7 @@ nav: true
   {% endfor %}
 </table>
 
+
 ### **Day 2**
 
 <table>
