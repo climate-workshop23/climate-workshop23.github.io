@@ -1,30 +1,72 @@
-- time: 09:00 - 09:15
-  title: Arrival
-- time: 09:15 - 09:30
-  title: Welcome
-  speaker: Marc Deisenroth
-  detail: Probabilistic Methods in Weather and Climate
-- time: 09:30 - 10:30
-  title: Keynote
-  speaker: Tshilidzi Marwala
-  detail: TBC  
-- time: 10:30 - 11:00
-  title: Coffee
-- time: 11:00 - 12:30
-  title: Poster Session 
-- time: 12:30 - 14:00
-  title: Lunch
-- time: 14:00 - 15:30
-  title: Contributed talks
-- time: 15:30 - 16:00
-  title: Coffee
-- time: 16:00 - 17:00
-  title: Poster Session
-- time: 17:00 - 18:00
-  title: Keynote
-  speaker: Anima Anandkumar
-  detail: TBC
-- time: 18:00 - late
-  title: Workshop BBQ!
-
-
+- day: "Day 1"
+  events:
+  - start: "9:00"
+    end: "9:15"
+    title: Arrival
+  - start: "9:15"
+    end: "9:30"
+    title: Welcome
+    speaker: Marc Deisenroth
+    detail: Probabilistic Methods in Weather and Climate
+    active: true
+  - start: "9:30"
+    end: "10:30"
+    title: Keynote
+    speaker: "Tshilidzi Marwala: Title TBC"
+    detail: TBC
+    active: true
+  - start: "10:30"
+    end: "11:00"
+    title: Coffee
+  - start: "11:00"
+    end: "12:30"
+    title: Poster Session 1
+    active: true
+  - start: "12:30"
+    end: "14:00"
+    title: Lunch
+  - start: "14:00"
+    end: "15:30"
+    title: Contributed Talks
+    active: true
+  - start: "15:30"
+    end: "16:00"
+    title: Coffee
+  - start: "16:00"
+    end: "17:00"
+    title: Poster Session 2
+    active: true
+  - start: "17:00"
+    end: "18:00"
+    title: Keynote
+    speaker: "Anima Anandkumar: Title TBC"
+    detail: TBC
+    active: true
+  - start: "18:00"
+    end: "late"
+    title: Workshop BBQ!
+- day: "Day 2 (Provisional)"
+  events:
+  - start: "9:15"
+    end: "9:30"
+    title: Arrival
+  - start: "9:30"
+    end: "10:30"
+    title: Open problems and brainstorming
+    active: true
+    detail: Presentation and discussion of an open problem in the field
+  - start: "10:30"
+    end: "11:00"
+    title: Coffee
+  - start: "11:00"
+    end: "12:30"
+    title: Open problems and brainstorming
+    active: true
+  - start: "12:30"
+    end: "14:00"
+    title: Lunch
+  - start: "14:00"
+    end: "15:00"
+    title: Workshop wrap-up discussion and close
+    detail: Open floor discussion of takeaways among participants
+    active: true
