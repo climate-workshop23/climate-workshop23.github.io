@@ -43,8 +43,12 @@ If your abstract is accepted, we expect you to present your work in person at th
 
 **Acceptance notification: 8 March 2023**
 
+## **Sponsor**
+
+{% include figure.html img="DM_RGB_Logo_Blue400@1x.png" alt="DeepMind" caption="" width="50%" %}
+
 ## **Partners**
 
-{% include figure.html img="aims_research_logo.png" alt="intro image here" caption="" width="50%" %}
-{% include figure.html img="qla_logo.png" alt="intro image here" caption="" width="50%" %}
-{% include figure.html img="ucl_logo.jpg" alt="intro image here" caption="" width="50%" %}
+{% include figure.html img="aims_research_logo.png" alt="African Institute for Mathematical Sciences (AIMS) logo" caption="" width="50%" %}
+{% include figure.html img="qla_logo.png" alt="Quantum Leap Africa" caption="" width="50%" %}
+{% include figure.html img="ucl_logo.jpg" alt="University College London (UCL)" caption="" width="50%" %}
