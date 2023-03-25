@@ -3,7 +3,7 @@ title: Speakers
 nav: true
 ---
 
-{% for group in site.data.keynotespeakers %}
+{% for group in site.data.speakers %}
 ## {{ group.heading }}
 
 {% for speaker in group.speakers %}

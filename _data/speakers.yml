@@ -1,4 +1,4 @@
-- heading: Keynote Speakers
+- heading: Keynote and Invited Speakers
   speakers:
   - name: Tshilidzi Marwala
     photo: tshilidzi_marwala.png
@@ -6,8 +6,6 @@
   - name: Anima Anandkumar
     photo: Anima_2_2022.jpeg
     bio: Anima Anandkumar is a Bren Professor at Caltech and Director of ML Research at NVIDIA. She was previously a Principal Scientist at Amazon Web Services. She has received several honors such as Alfred. P. Sloan Fellowship, NSF Career Award, Young investigator awards from DoD, and Faculty Fellowships from Microsoft, Google, Facebook, and Adobe. She is part of the World Economic Forum's Expert Network. She is passionate about designing principled AI algorithms and applying them in interdisciplinary applications. Her research focus is on unsupervised AI, optimization, and tensor methods.
-- heading: Invited Speaker
-  speakers:
   - name: Mouhamadou Bamba Sylla
     photo: Sylla MB.JPG
     bio: "Dr Mouhamadou Bamba Sylla is the Research Chair in Climate Change Science at the African Institute for Mathematical Sciences based in Kigali, Rwanda.
