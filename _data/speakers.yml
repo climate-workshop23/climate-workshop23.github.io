@@ -2,12 +2,15 @@
   speakers:
   - name: Tshilidzi Marwala
     photo: tshilidzi_marwala.png
+    url: https://en.wikipedia.org/wiki/Tshilidzi_Marwala
     bio: Professor Tshilidzi Marwala is the Rector of the United Nations University and UN Under-Secretary-General. He was previously vice-chancellor and principal of the University of Johannesburg. Before that, he was a professor of electrical engineering at the University of the Witwatersrand and a post-doctoral fellow at Imperial College of Science, Technology and Medicine. He has served as a trustee of the Nelson Mandela Foundation and on a board of Nedbank.
   - name: Anima Anandkumar
     photo: Anima_2_2022.jpeg
+    url: http://tensorlab.cms.caltech.edu/users/anima/
     bio: Anima Anandkumar is a Bren Professor at Caltech and Director of ML Research at NVIDIA. She was previously a Principal Scientist at Amazon Web Services. She has received several honors such as Alfred. P. Sloan Fellowship, NSF Career Award, Young investigator awards from DoD, and Faculty Fellowships from Microsoft, Google, Facebook, and Adobe. She is part of the World Economic Forum's Expert Network. She is passionate about designing principled AI algorithms and applying them in interdisciplinary applications. Her research focus is on unsupervised AI, optimization, and tensor methods.
   - name: Mouhamadou Bamba Sylla
     photo: Sylla MB.JPG
+    url: https://twitter.com/bambaclimate
     bio: "Dr Mouhamadou Bamba Sylla is the Research Chair in Climate Change Science at the African Institute for Mathematical Sciences based in Kigali, Rwanda.
 
   Prior to this, he was the director of research and the senior scientist in climate modeling and climate change at the WASCAL Competence Center, Ouagadougou, Burkina Faso. There, he was also the head of the climate change and climate variability research cluster and acting coordinator of observation networks.
