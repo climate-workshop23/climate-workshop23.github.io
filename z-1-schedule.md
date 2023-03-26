@@ -8,11 +8,11 @@ nav: true
 {% for day in site.data.schedule %}
 ### **{{ day.day }}**
 
-<table class="styled-table">
+<table class="styled-table" style="width: 100%;">
     <thead>
         <tr>
-            <th>Time</th>
-            <th>Session Title</th>
+            <th style="width: 5%;">Time</th>
+            <th style="width: 15%;">Session</th>
             <th colspan="2">Speaker</th>
         </tr>
     </thead>
