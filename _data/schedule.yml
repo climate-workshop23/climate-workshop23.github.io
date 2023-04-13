@@ -58,18 +58,39 @@
     end: "11:00"
     title: Coffee
   - start: "11:00"
-    end: "12:30"
-    title: Open problems, brainstorming & discussion
+    end: "11:45"
+    title: Open problems, brainstorming & discussion (I)
     detail: Presentation and discussion of an open problem in the field
     active: true
-  - start: "12:30"
-    end: "14:00"
+  - start: "11:45"
+    end: "12:00"
+    title: Short break
+  - start: "12:00"
+    end: "12:45"
+    title: Open problems, brainstorming & discussion (II)
+    detail: Presentation and discussion of an open problem in the field
+    active: true
+  - start: "12:45"
+    end: "13:45"
     title: Lunch
-  - start: "14:00"
-    end: "15:00"
+  - start: "13:45"
+    end: "14:45"
+    title: "Invited talk"
+    speaker: "Vedaste Iyakaremye & Joseph Sebaziga Ndakize"
+    active: true
+  - start: "14:45"
+    end: "15:30"
+    title: Open problems, brainstorming & discussion (III)
+    detail: Presentation and discussion of an open problem in the field
+    active: true
+  - start: "15:30"
+    end: "16:00"
+    title: Coffee
+  - start: "16:00"
+    end: "16:45"
     title: Workshop wrap-up discussion and close
     detail: Open floor discussion of takeaways among participants
     active: true
-  - start: "15:00"
-    end: "15:00"
-    title: End
+  - start: "17:00"
+    end: "late"
+    title: Workshop BBQ!
